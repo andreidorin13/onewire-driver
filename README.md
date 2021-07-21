@@ -28,3 +28,5 @@ cpu%
 # Display
 
 Sample added in `display.c` for displaying sensor value on [44" Color TFT LCD Display](https://www.adafruit.com/product/2088) in the style of a 7-segment display.
+
+![Demo](https://github.com/andreidorin13/onewire-driver/blob/main/sample.gif "Demo")
